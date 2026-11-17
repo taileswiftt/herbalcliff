@@ -4,3 +4,5 @@ module.exports = v;
 # tiny helper
 print('ok')
 func main() { println("hi") }
+
+# 1426c9
